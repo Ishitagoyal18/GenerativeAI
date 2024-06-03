@@ -1,2 +1,2 @@
 # GenerativeAI
-Generative AI: Unveiling Image Generation with Text Conditioning
+Unveiling Image Generation with Text Conditioning
