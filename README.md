@@ -10,3 +10,7 @@ Unveiling Image Generation with Text Conditioning
 1. Using pre trained model ResNet18 to classify flowers into 'daisy', 'dandelion'
    
    Dataset downloaded from -: https://github.com/AarohiSingla/Image_classification_using_pytorch/tree/main/Flowers_Classification_dataset
+2. Implemented UNET architecture in pytorch
+
+### Week 3 tasks
+1. Implemented DDPM for Generating unconditioned images on MNIST dataset
