@@ -14,3 +14,6 @@ Unveiling Image Generation with Text Conditioning
 
 ### Week 3 tasks
 1. Implemented DDPM for Generating unconditioned images on MNIST dataset
+
+### Week 4 tasks
+1. Implemented latent diffusion model from scratch
